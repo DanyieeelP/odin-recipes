@@ -1,0 +1,62 @@
+.title{
+    padding:10px;
+    border: 1px solid;
+}
+
+.recipe-container{
+    width: 400px;
+    padding: 20px;
+    background-color: lightyellow;
+}
+
+/* Recipe pages css */
+
+.navi{
+    display:block;
+    border: 1px solid black;
+    padding: 10px;
+}
+
+.recipe{
+    width: auto;
+    background-color: lightyellow;
+}
+
+.main-container{
+    width: 600px;
+    background-color: white;
+    border: 1px solid;
+    padding: 10px;
+}
+
+h2, p{
+    margin-left: 10px;
+}
+
+h4{
+    margin-left: 20px;
+}
+
+.img{
+    height: 300px;
+    width: 500px;
+    display: block;
+    padding: 10px;
+}
+
+div .container{
+    background-color: lightyellow;
+    width: 400px;
+    margin: 0px 20px 20px 10px;
+    padding: 10px;
+    border: 1px solid black;
+}
+
+ol, ul{
+    padding: 10px 40px 15px 40px;
+
+}
+
+h3{
+  text-align: center;  
+}
